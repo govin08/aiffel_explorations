@@ -1,0 +1,4 @@
+[2022-12-31 13:39:37] mrx-link.MRXLinkWebSocketHandler._accept_connection() DEBUG: WebSocket opened
+[2022-12-31 13:39:43] mrx-link.MRXLinkWebSocketHandler._run_callback() DEBUG: kernel_id was set to 524ca97a-9a2e-4d3e-905c-8a106fc3171d
+[2022-12-31 13:39:43] mrx-link.MRXLinkWebSocketHandler._run_callback() DEBUG: kernel:info proccessed.
+[2022-12-31 13:40:03] mrx-link.MRXLinkWebSocketHandler.on_connection_close() DEBUG: WebSocket on kernel id 524ca97a-9a2e-4d3e-905c-8a106fc3171d closed
